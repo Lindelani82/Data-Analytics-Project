@@ -4,17 +4,18 @@ Welcome to Data analytics with python programming, in this repository we have da
 
 # Dataset
 Link: https://www.dropbox.com/s/6vrq4nq7bs750ys/transaction.csv?dl=0
+
 This dataset contains features such as cost,sales, transactions and so on
 
 # Project goals
 The main objectives of this data analytics project are:
 
 - Identy patterns and trends within the dataset
-- perform data exploratory to gain deeper understanding of variables
+- perform exploratory data analysis (EDA) to gain deeper understanding of variables
 - Create new columns by perfoming calculatons on other columns
 - combine some columns to create one column
 - lowering cases for a column in a dataframe
--  split varibales on certain columns, and then cream columns for splitted variables
+-  split varibales on certain columns, and then creat columns for splitted variables
 
 # Tools and technologies 
 - python- used for data cleaning,processing and analysing
