@@ -1,4 +1,4 @@
-# Data-Analytics-for-vintage-point-data
+# Data-Analytics-for-retail store
 
 Welcome to Data analytics with python programming, in this repository we have dataset for value inc. retail store which sells household items all over the world in bulk.This project focuses on applying data analysis techniques to examine and interpret large volume of data to uncover patterns,trends that can be used to draw conclusion and make driven business decisions
 
