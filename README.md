@@ -12,7 +12,7 @@ The main objectives of this data analytics project are:
 
 - Identy patterns and trends within the dataset
 - perform exploratory data analysis (EDA) to gain deeper understanding of variables
-- Create new columns by perfoming calculatons on other columns
+- Create new columns by performing calculations on other columns
 - combine some columns to create one column
 - lowering cases for a column in a dataframe
 -  split varibales on certain columns, and then creat columns for splitted variables
