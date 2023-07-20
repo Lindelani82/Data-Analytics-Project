@@ -10,7 +10,7 @@ This dataset contains features such as cost,sales, transactions and so on
 # Project goals
 The main objectives of this data analytics project are:
 
-- Identy patterns and trends within the dataset
+- Identify patterns and trends within the dataset
 - perform exploratory data analysis (EDA) to gain deeper understanding of variables
 - Create new columns by performing calculations on other columns
 - combine some columns to create one column
